@@ -1,0 +1,9 @@
+video, canvas {
+    margin-left: 50px;
+    margin-top: 50px;
+    position: absolute;
+  }
+
+  canvas {
+      z-index: 1000;
+  }
